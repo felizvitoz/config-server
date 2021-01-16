@@ -5,8 +5,8 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/felizvitoz/config-server.git
-          basedir: application-config
+          uri: https://github.com/felizvitoz/config-server
+          #basedir: application-config
 
 server:
-  port: 8888
+  port: 8889
